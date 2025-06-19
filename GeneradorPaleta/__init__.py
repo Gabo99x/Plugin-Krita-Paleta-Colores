@@ -1,0 +1,1 @@
+from .GeneradorPaleta import* 
